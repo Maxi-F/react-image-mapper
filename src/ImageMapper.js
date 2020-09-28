@@ -28,7 +28,8 @@ export default class ImageMapper extends Component {
 			"lineWidth",
 			"src",
 			"strokeColor",
-			"width"
+			"width",
+			"map"
 		];
 	}
 
